@@ -74,6 +74,11 @@ namespace Portfolio.Areas.Identity.Pages.Account
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            /// 
+            [Required(ErrorMessage = "Поле 'Логін' є обов'язковим")]
+            [Display(Name = "Логін")]
+            public string UserName { get; set; }
+
             [Required(ErrorMessage = "Поле 'Поштає' є обов'язковим")]
             [EmailAddress(ErrorMessage = "Введіть коректний електронний адрес")]
             [Display(Name = "Пошта")]
@@ -84,7 +89,7 @@ namespace Portfolio.Areas.Identity.Pages.Account
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [Required(ErrorMessage = "Поле 'Пароль' є обов'язковим")]
-            [StringLength(100, ErrorMessage = "Пароль повинен бути хоча б {2} і максимум {1} символів за довжиною.", MinimumLength = 6)]
+            [StringLength(50, ErrorMessage = "Пароль повинен бути хоча б {2} і максимум {1} символів за довжиною.", MinimumLength = 6)]
             [DataType(DataType.Password)]
             [Display(Name = "Пароль")]
             public string Password { get; set; }
@@ -114,7 +119,7 @@ namespace Portfolio.Areas.Identity.Pages.Account
             {
                 var user = CreateUser();
 
-                await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
+                await _userStore.SetUserNameAsync(user, Input.UserName, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
 
