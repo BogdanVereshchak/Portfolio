@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Frjos5N6GhE18FGzX0gXFhl5UPF9nvjiYCL/KhCDb6Q=",
+  "Hash": "G4eJex1YYGSdELzJDpwIRXtTGRSenvhRRhs+1eMS3Es=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\trash.svg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/trash.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\trash.svg"
+    },
+    {
       "Identity": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\site.js",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\username.js",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "js/username.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\username.js"
     },
     {
       "Identity": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

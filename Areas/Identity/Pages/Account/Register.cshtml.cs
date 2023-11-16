@@ -79,7 +79,7 @@ namespace Portfolio.Areas.Identity.Pages.Account
             [Display(Name = "Логін")]
             public string UserName { get; set; }
 
-            [Required(ErrorMessage = "Поле 'Поштає' є обов'язковим")]
+            [Required(ErrorMessage = "Поле 'Пошта' є обов'язковим")]
             [EmailAddress(ErrorMessage = "Введіть коректний електронний адрес")]
             [Display(Name = "Пошта")]
             public string Email { get; set; }

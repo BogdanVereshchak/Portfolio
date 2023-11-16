@@ -16,3 +16,25 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+img {
+    width: 200px;
+    position: absolute;
+    margin-top: 20px;
+    left: 330px;
+    z-index: 5;
+}
+
+.itemDiv {
+    display: flex;
+    width: 300px;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.fallingDiv {
+    position: absolute;
+    height: 20px;
+    font-size: 13.3333px;
+    transform: rotate(0deg);
+}

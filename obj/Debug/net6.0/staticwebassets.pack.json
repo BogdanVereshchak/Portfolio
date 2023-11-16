@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\trash.svg",
+      "PackagePath": "staticwebassets\\img\\trash.svg"
+    },
+    {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\username.js",
+      "PackagePath": "staticwebassets\\js\\username.js"
     },
     {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
