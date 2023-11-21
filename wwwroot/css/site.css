@@ -4,26 +4,69 @@ html {
     min-height: 100%;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
 body {
-  margin-bottom: 60px;
+    min-height: 100vh;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 60px;
 }
 
-img {
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+#bin{
     width: 200px;
     position: absolute;
     margin-top: 20px;
-    left: 330px;
+    left: 215px;
     z-index: 5;
 }
 
-.container{
-    justify-content:start;
+.navbar {
+    position: relative;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    backdrop-filter: blur(20px);
+    overflow: hidden;
+    text-align: center;
+    font-size: 1.3em;
+    border-bottom: 5px solid transparent;
+    border-radius: 1rem;
+    border-width: 4px;
+    font-weight:800;
+}
+
+.navbar-nav {
+    margin-top: 0px;
+    left: 0px;
+    z-index: 5;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.favicon {
+    position:relative;
+    width: 70px;
 }
 
 .itemDiv {
@@ -41,11 +84,11 @@ img {
 }
 
 #index-central {
-    position: relative;
+   position: relative;
+    margin-top: 40px;
     margin-bottom: 0px;
     margin-block: 30px;
     margin-left: 50px;
-    color: black;
 }
 
 #index-central-first {
@@ -59,6 +102,12 @@ img {
     line-height: 70px;
 }
 
+#index-central-third {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-top: 4px;
+}
+
 #highlight {
     color: rgb(35, 14, 95);
     font-size: 1.1em;
@@ -68,11 +117,6 @@ img {
     color: rgb(6, 167, 216)
 }
 
-#index-central-third{
-    font-size: 1.1em;
-    font-weight:500;
-    margin-top:4px;
-}
 
 .ham-menu {
     height: 50px;

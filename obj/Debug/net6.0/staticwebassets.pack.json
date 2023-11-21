@@ -17,6 +17,62 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-black.pdf",
+      "PackagePath": "staticwebassets\\img\\pdf\\logo-black.pdf"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-color.pdf",
+      "PackagePath": "staticwebassets\\img\\pdf\\logo-color.pdf"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-no-background.pdf",
+      "PackagePath": "staticwebassets\\img\\pdf\\logo-no-background.pdf"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-white.pdf",
+      "PackagePath": "staticwebassets\\img\\pdf\\logo-white.pdf"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-black.png",
+      "PackagePath": "staticwebassets\\img\\png\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-color.png",
+      "PackagePath": "staticwebassets\\img\\png\\logo-color.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-no-background.png",
+      "PackagePath": "staticwebassets\\img\\png\\logo-no-background.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\png\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\svg\\logo-black.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo-black.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\svg\\logo-color.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo-color.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\svg\\logo-no-background.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo-no-background.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\svg\\logo-white.svg",
+      "PackagePath": "staticwebassets\\img\\svg\\logo-white.svg"
+    },
+    {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\trash.svg",
       "PackagePath": "staticwebassets\\img\\trash.svg"
     },
