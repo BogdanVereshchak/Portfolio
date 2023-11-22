@@ -6,10 +6,20 @@ html {
 
 body {
     min-height: 100vh;
-    background-image: url('../img/background.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6) ), url('../img/background.jpg');
     background-size: cover;
     background-position: center;
     margin-bottom: 60px;
+}
+
+body::after{
+  content: '';
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+  z-index: 0;
 }
 
 @media (min-width: 768px) {
@@ -27,14 +37,14 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 100;
+    z-index: 10;
 }
 
 #bin{
-    width: 200px;
-    position: absolute;
+    width: 250px;
+    position: relative;
     margin-top: 20px;
-    left: 215px;
+    left: 180px;
     z-index: 5;
 }
 
@@ -159,4 +169,24 @@ header {
     transform:
         translate(-50%, -50%)
         rotate(-45deg);
+}
+
+#registerSubmit {
+    color: black;
+    background-color: white;
+}
+
+body::-webkit-scrollbar {
+    width: 12px; /* Ширина скроллбару */
+    color:#000000;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #343232; /* Колір "ползунка" скроллбару */
+    border-radius: 20px;
+}
+
+/* Стилізація горизонтального скроллбару */
+body::-webkit-scrollbar-track {
+    background-color: #202020; 
 }
