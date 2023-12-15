@@ -1,6 +1,6 @@
 ﻿var input = document.getElementById('userNameInput')
 var mainDiv = document.getElementById('main')
-var binDiv = document.getElementById('bin');
+var binDiv = document.getElementById('bin')
 var fallingDivs = []
 
 input.addEventListener('input', () => {
@@ -13,7 +13,7 @@ input.addEventListener('input', () => {
 
         fallingDiv.classList.add('fallingDiv')
         fallingDiv.style.top = input.getBoundingClientRect().top + 'px'
-        fallingDiv.style.left = input.getBoundingClientRect().left + 'px'
+        fallingDiv.style.left = input.getBoundingClientRect().right + 'px'
 
         mainDiv.append(fallingDiv)
         fallingDivs.push(fallingDiv)

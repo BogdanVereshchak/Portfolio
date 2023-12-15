@@ -5,6 +5,110 @@
       "PackagePath": "staticwebassets\\Portfolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\click.mp3",
+      "PackagePath": "staticwebassets\\assets\\click.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\bg-menu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-menu.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\btn-start.png",
+      "PackagePath": "staticwebassets\\assets\\img\\btn-start.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle0.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle0.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle1.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle10.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle2.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle3.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle4.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle5.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle6.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle7.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle8.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\circle9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle9.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\img\\pop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop0.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop0.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop1.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop1.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop10.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop10.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop2.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop2.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop3.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop3.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop4.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop4.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop5.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop5.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop6.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop6.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop7.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop7.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop8.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop8.mp3"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\assets\\pop9.mp3",
+      "PackagePath": "staticwebassets\\assets\\pop9.mp3"
+    },
+    {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\css\\Bootswatch.css",
       "PackagePath": "staticwebassets\\css\\Bootswatch.css"
     },
@@ -21,40 +125,76 @@
       "PackagePath": "staticwebassets\\favicon.svg"
     },
     {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\Portfolio.png",
+      "PackagePath": "staticwebassets\\img\\Portfolio.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\SuikaGame.jpg",
+      "PackagePath": "staticwebassets\\img\\SuikaGame.jpg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\babkafreeze.jpg",
+      "PackagePath": "staticwebassets\\img\\babkafreeze.jpg"
+    },
+    {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\background.jpg",
       "PackagePath": "staticwebassets\\img\\background.jpg"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-black.pdf",
-      "PackagePath": "staticwebassets\\img\\pdf\\logo-black.pdf"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-color.pdf",
-      "PackagePath": "staticwebassets\\img\\pdf\\logo-color.pdf"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg2.jpg"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-no-background.pdf",
-      "PackagePath": "staticwebassets\\img\\pdf\\logo-no-background.pdf"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\bg3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg3.jpg"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\pdf\\logo-white.pdf",
-      "PackagePath": "staticwebassets\\img\\pdf\\logo-white.pdf"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\00_cherry.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\00_cherry.png"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-black.png",
-      "PackagePath": "staticwebassets\\img\\png\\logo-black.png"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\01_strawberry.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\01_strawberry.png"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-color.png",
-      "PackagePath": "staticwebassets\\img\\png\\logo-color.png"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\02_grape.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\02_grape.png"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-no-background.png",
-      "PackagePath": "staticwebassets\\img\\png\\logo-no-background.png"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\03_gyool.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\03_gyool.png"
     },
     {
-      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\png\\logo-white.png",
-      "PackagePath": "staticwebassets\\img\\png\\logo-white.png"
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\04_orange.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\04_orange.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\05_apple.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\05_apple.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\06_pear.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\06_pear.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\07_peach.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\07_peach.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\08_pineapple.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\08_pineapple.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\09_melon.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\09_melon.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\suiko-game\\10_watermelon.png",
+      "PackagePath": "staticwebassets\\img\\suiko-game\\10_watermelon.png"
     },
     {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\svg\\logo-black.svg",
@@ -75,6 +215,14 @@
     {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\img\\trash.svg",
       "PackagePath": "staticwebassets\\img\\trash.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\matter.js",
+      "PackagePath": "staticwebassets\\js\\matter.js"
     },
     {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\js\\site.js",
@@ -311,6 +459,46 @@
     {
       "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\Bootstrap.png",
+      "PackagePath": "staticwebassets\\picture\\Bootstrap.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\Godot.svg",
+      "PackagePath": "staticwebassets\\picture\\Godot.svg"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\aspnet.png",
+      "PackagePath": "staticwebassets\\picture\\aspnet.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\css.png",
+      "PackagePath": "staticwebassets\\picture\\css.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\databasenet.png",
+      "PackagePath": "staticwebassets\\picture\\databasenet.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\html.png",
+      "PackagePath": "staticwebassets\\picture\\html.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\jquery.png",
+      "PackagePath": "staticwebassets\\picture\\jquery.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\js.png",
+      "PackagePath": "staticwebassets\\picture\\js.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\mysql.png",
+      "PackagePath": "staticwebassets\\picture\\mysql.png"
+    },
+    {
+      "Id": "C:\\Games\\OurProject\\MyWeb\\Portfolio\\wwwroot\\picture\\oop.jpg",
+      "PackagePath": "staticwebassets\\picture\\oop.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",

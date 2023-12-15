@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-Portfolio-469c49b3-35ad-4a5b-b2c5-f12a55fcd144</UserSecretsId>
+	<NoWarn>$(NoWarn);NU1701</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,5 +17,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.23" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
-
 </Project>

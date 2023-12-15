@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Portfolio.Models;
 
 namespace Portfolio.Data
 {
@@ -9,5 +10,6 @@ namespace Portfolio.Data
             : base(options)
         {
         }
+        public DbSet<Portfolio.Models.Review>? Review { get; set; }
     }
 }

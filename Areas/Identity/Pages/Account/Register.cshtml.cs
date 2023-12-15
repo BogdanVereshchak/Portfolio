@@ -136,8 +136,8 @@ namespace Portfolio.Areas.Identity.Pages.Account
                         values: new { area = "Identity", userId = userId, code = code, returnUrl = returnUrl },
                         protocol: Request.Scheme);
 
-                    await _emailSender.SendEmailAsync(Input.Email, "Confirm your email",
-                        $"Please confirm your account by <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>clicking here</a>.");
+                    await _emailSender.SendEmailAsync(Input.Email, "Підтвердіть свою пошту",
+                        $"Буль ласка підтвердіть свою пошту,  <a href='{HtmlEncoder.Default.Encode(callbackUrl)}'>натиснувши сюди</a>.");
 
                     if (_userManager.Options.SignIn.RequireConfirmedAccount)
                     {

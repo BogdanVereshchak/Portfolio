@@ -4,22 +4,165 @@ html {
     min-height: 100%;
 }
 
-body {
-    min-height: 100vh;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6) ), url('../img/background.jpg');
-    background-size: cover;
-    background-position: center;
-    margin-bottom: 60px;
+form{
+
 }
 
-body::after{
-  content: '';
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0,0,0,.5);
-  z-index: 0;
+.btn-outline-dark {
+    color: #343a40;
+    border-color: #343a40;
+    transition: transform 0.4s ease-out;
+}
+
+.btn-outline-dark:hover {
+    background-color: #343a40;
+    color: #ffffff;
+    transition: transform 0.6s ease-in;
+    transform: scale(1.1);
+}
+
+
+.projects {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.project {
+    margin-bottom: 30px;
+    transition: transform 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+.project-number {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#more-info {
+    margin-top: 40px;
+    font-size: 19px;
+    font-family: 'Georgia', serif;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+#more-info .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+#more-info .col-12 {
+    flex-basis: 100%;
+}
+
+#more-info h2 {
+    color: #007bff;
+    font-size: 26px;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+}
+
+#more-info .hobby-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#more-info .hobby-list li {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    padding-left: 20px;
+    position: relative;
+}
+
+#more-info .hobby-list li:before {
+    content: '>';
+    position: absolute;
+    left: 0;
+}
+
+
+#project-3{
+    width:60%;
+    margin: 0 auto;
+}
+
+#more-info .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+#more-info .col-12 {
+    flex-basis: 100%;
+}
+
+#more-info h2 {
+    color: #6c757d;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#more-info p {
+    color: #343a40;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+#more-info ul {
+    padding-left: 20px;
+}
+
+#more-info ul li {
+    margin-bottom: 10px;
+}
+
+.project-thumb {
+    border-radius: 10px;
+    height: auto;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 2px solid;
+    border-color: #343a40;
+}
+
+.project h6 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #6c757d;
+}
+
+.project h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.project p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.4) ), url('../img/bg3.jpg');
+    background-size: inherit;
+    background-position: center;
+    margin-bottom: 60px;
+    font-family: 'Arial', sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -60,13 +203,16 @@ header {
     border-bottom: 5px solid transparent;
     border-radius: 1rem;
     border-width: 4px;
-    font-weight:800;
+    font-weight: 800;
 }
 
 .navbar-nav {
     margin-top: 0px;
     left: 0px;
     z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .navbar-brand {
@@ -88,6 +234,7 @@ header {
 
 .fallingDiv {
     position: absolute;
+    left:300px;
     height: 20px;
     font-size: 13.3333px;
     transform: rotate(0deg);
@@ -189,4 +336,24 @@ body::-webkit-scrollbar-thumb {
 /* Стилізація горизонтального скроллбару */
 body::-webkit-scrollbar-track {
     background-color: #202020; 
+}
+
+img {
+    box-sizing: content-box;
+    width: 100%;
+    overflow: clip;
+    vertical-align: middle;
+}
+
+.skills img {
+    position: relative;
+    padding:0px;
+    margin:5px;
+    border-radius:10px;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
